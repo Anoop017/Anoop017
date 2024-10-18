@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anoop
 - 👀 I’m interested in money  
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Front End
 - 💞️ I am just here to store my codes
 - 📫 You can't reach me now
 - 😄 Pronouns: He/Him
