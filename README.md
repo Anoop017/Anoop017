@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Anoop  
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I am here to learn more about Github
-- 📫 You can reach me at anoopsnair1123@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Mechanical Engineer.
+Hi, I'm Anoop! 👋
+
+🚀 Aspiring Full Stack Developer | Ex-Mechanical Engineer
+
+🌱 Learning MERN Stack (MongoDB, Express.js, React, Node.js)
+
+💻 Practicing DSA to improve problem-solving skills
+
+🎯 Open to Software Development opportunities
+
+📬 Reach me at anoopsnair321@gmail.com
