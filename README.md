@@ -1,5 +1,5 @@
 # About Me:
-### Hi, I'm Anoop Nair<br><br>Full Stack Developer focused on building responsive, maintainable, and user-friendly applications.<br><br>My current interests include web development, backend engineering, system design fundamentals, and problem solving.<br><br>Actively seeking opportunities to contribute, learn, and grow as a Software Engineer.<br><br>Email : anoopsnair321@gmail.com
+### Hi, I'm Anoop Nair<br><br>Full Stack Developer focused on building responsive, maintainable, and user-friendly applications.<br><br>My current interests include web development, backend engineering, system design fundamentals, and problem solving.<br><br>Actively seeking opportunities to contribute, learn, and grow as a Software Engineer.<br><br>Email : anoopsnair321@gmail.com <br><br> Mobile : +91 7034248006
 
 
 ## 🌐 Socials:
